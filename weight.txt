@@ -1,0 +1,115 @@
+38
+Aftab Nagar
+Merul Badda
+2
+Aftab Nagar
+Hatirjhil
+1
+Aftab Nagar
+Banasree
+1
+Aftab Nagar
+Rampura
+1
+Merul Badda
+Link Road
+3
+Link Road
+Gulshan 1
+3
+Link Road
+Notun Bazar
+2
+Notun Bazar
+Boshundhora
+1
+Boshundhora
+Kuril
+2
+Notun Bazar
+Gulshan 2
+3
+Gulshan 1
+Gulshan 2
+2
+Gulshan 2
+Banani
+4
+Banani
+Kuril
+5
+Banani
+Mohakhali
+3
+Gulshan 1
+Mohakhali
+4
+Gulshan 1
+Hatirjhil
+2
+Hatirjhil
+Kawran Bazar
+5
+Kawran Bazar
+Mohakhali
+5
+Kawran Bazar
+Panthopoth
+2
+Kawran Bazar
+Maghbazar
+3
+Maghbazar
+Hatirjhil
+4
+Maghbazar
+Bangla Motor
+4
+Panthopoth
+Bangla Motor
+3
+Maghbazar
+Mouchak
+2
+Mouchak
+Rampura
+3
+Mouchak
+Malibag
+2
+Rampura
+Banasree
+1
+Banasree
+Khilgaon
+4
+Hatirjhil
+Rampura
+1
+Rampura
+Malibag
+2
+Rampura
+Khilgaon
+5
+Khilgaon
+Matijhil
+5
+Khilgaon
+Shanti Nagar
+5
+Malibag
+Shanti Nagar
+3
+Shanti Nagar
+Kakrail
+4
+Matijhil
+Kakrail
+6
+Kakrail
+Shahbag
+8
+Shahbag
+Bangla Motor
+9
